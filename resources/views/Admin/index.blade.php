@@ -2,14 +2,14 @@
 
 <html lang="en">
   
-@include('Admin.components.header')
+@include('Admin.components.header', ['title' => 'Admin Dashboard'])
 
   <body >
     <script src="{{asset('./dist/js/demo-theme.min.js?1684106062')}}"></script>
 
     <div class="page">
 
-@include('Admin.components.nav')
+@include('Admin.components.nav', ['active' => 'Admin Dashboard'])
 
             <div class="page-wrapper">
 
