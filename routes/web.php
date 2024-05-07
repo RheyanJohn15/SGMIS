@@ -17,8 +17,3 @@ use Illuminate\Support\Facades\Route;
 Route::get('/Admin', function () { return view('admin.index'); })->name('AdminDashboard');
 // Route::get('/', function () {return view('index');})->name('index');
 Route::get('/blank', function () { return view('admin.blank'); })->name('Blank');
-=======
-Route::get('/', function () {
-    return view('welcome');
-});
-
