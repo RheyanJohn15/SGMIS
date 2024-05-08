@@ -13,6 +13,23 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+<<<<<<< HEAD
 Route::get('/', function () {
     return view('welcome');
 });
+=======
+
+Route::get('/Admin', function () { return view('admin.index'); })->name('AdminDashboard');
+Route::get('/Accounts', function () { return view('admin.accounts'); })->name('Accounts');
+Route::get('/Events', function () { return view('admin.events'); })->name('Events');
+Route::get('/Documents', function () { return view('admin.documents'); })->name('Documents');
+Route::get('/blank', function () { return view('admin.blank'); })->name('Blank');
+
+Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::get('/Settings', function () { return view('admin.settings'); })->name('Settings');
+Route::get('/AdminLogin', function () { return view('admin.login'); })->name('AdminLogin');
+
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a

@@ -11,7 +11,11 @@
 /* prettier-ignore */
 :root,
 [data-bs-theme=light] {
+<<<<<<< HEAD
   --tblr-blue: #206bc4;
+=======
+  --tblr-blue: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-indigo: #4263eb;
   --tblr-purple: #ae3ec9;
   --tblr-pink: #d6336c;
@@ -34,7 +38,11 @@
   --tblr-gray-700: #3a4859;
   --tblr-gray-800: #182433;
   --tblr-gray-900: #040a11;
+<<<<<<< HEAD
   --tblr-primary: #206bc4;
+=======
+  --tblr-primary: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-secondary: #667382;
   --tblr-success: #2fb344;
   --tblr-info: #4299e1;
@@ -43,7 +51,11 @@
   --tblr-light: #fcfdfe;
   --tblr-dark: #182433;
   --tblr-muted: #667382;
+<<<<<<< HEAD
   --tblr-blue: #206bc4;
+=======
+  --tblr-blue: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-azure: #4299e1;
   --tblr-indigo: #4263eb;
   --tblr-purple: #ae3ec9;
@@ -69,7 +81,11 @@
   --tblr-rss: #ffa500;
   --tblr-flickr: #0063dc;
   --tblr-bitbucket: #0052cc;
+<<<<<<< HEAD
   --tblr-tabler: #206bc4;
+=======
+  --tblr-tabler: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-primary-rgb: 32, 107, 196;
   --tblr-secondary-rgb: 102, 115, 130;
   --tblr-success-rgb: 47, 179, 68;
@@ -153,7 +169,11 @@
   --tblr-tertiary-color-rgb: 24, 36, 51;
   --tblr-tertiary-bg: #f6f8fb;
   --tblr-tertiary-bg-rgb: 246, 248, 251;
+<<<<<<< HEAD
   --tblr-link-color: #206bc4;
+=======
+  --tblr-link-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-link-color-rgb: 32, 107, 196;
   --tblr-link-decoration: none;
   --tblr-link-hover-color: #1a569d;
@@ -15484,7 +15504,11 @@ textarea.form-control-lg {
 :host {
   font-size: 16px;
   height: 100%;
+<<<<<<< HEAD
   --tblr-primary: #206bc4;
+=======
+  --tblr-primary: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-primary-rgb: 32, 107, 196;
   --tblr-primary-fg: var(--tblr-light);
   --tblr-primary-darken: #1d60b0;
@@ -15538,7 +15562,11 @@ textarea.form-control-lg {
   --tblr-muted-darken: #5c6875;
   --tblr-muted-lt: #f0f1f3;
   --tblr-muted-lt-rgb: 240, 241, 243;
+<<<<<<< HEAD
   --tblr-blue: #206bc4;
+=======
+  --tblr-blue: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-blue-rgb: 32, 107, 196;
   --tblr-blue-fg: var(--tblr-light);
   --tblr-blue-darken: #1d60b0;
@@ -15694,7 +15722,11 @@ textarea.form-control-lg {
   --tblr-bitbucket-darken: #004ab8;
   --tblr-bitbucket-lt: #e6eefa;
   --tblr-bitbucket-lt-rgb: 230, 238, 250;
+<<<<<<< HEAD
   --tblr-tabler: #206bc4;
+=======
+  --tblr-tabler: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-tabler-rgb: 32, 107, 196;
   --tblr-tabler-fg: var(--tblr-light);
   --tblr-tabler-darken: #1d60b0;
@@ -17549,7 +17581,11 @@ body.theme-dark .hide-theme-dark, body[data-bs-theme=dark] .hide-theme-dark {
   --tblr-bg-surface-secondary: #1b293a;
   --tblr-bg-surface-tertiary: #151f2c;
   --tblr-link-color: #307fdd;
+<<<<<<< HEAD
   --tblr-link-hover-color: #206bc4;
+=======
+  --tblr-link-hover-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-active-bg: #1b293a;
   --tblr-disabled-color: var(--tblr-gray-700);
   --tblr-border-color: var(--tblr-dark-mode-border-color);
@@ -18162,7 +18198,11 @@ a.badge {
 }
 
 .btn-link {
+<<<<<<< HEAD
   color: #206bc4;
+=======
+  color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   background-color: transparent;
   border-color: transparent;
   box-shadow: none;
@@ -22076,7 +22116,11 @@ Legend
 
 .list-group-item.active {
   background-color: rgba(var(--tblr-muted-rgb), 0.04);
+<<<<<<< HEAD
   border-right-color: #206bc4;
+=======
+  border-right-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   border-right-width: 2px;
 }
 
@@ -22164,7 +22208,11 @@ Inline list
   display: block;
   width: 2.5rem;
   height: 2.5rem;
+<<<<<<< HEAD
   color: #206bc4;
+=======
+  color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   vertical-align: middle;
 }
 .loader:after {
@@ -22452,7 +22500,11 @@ Dimmer
   color: var(--tblr-body-color);
 }
 .page-link:hover .page-item-title {
+<<<<<<< HEAD
   color: #206bc4;
+=======
+  color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
 }
 .page-item.disabled .page-item-title {
   color: var(--tblr-disabled-color);
@@ -23027,7 +23079,11 @@ a.step-item:hover {
 }
 
 .status-primary {
+<<<<<<< HEAD
   --tblr-status-color: #206bc4;
+=======
+  --tblr-status-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-status-color-rgb: 32, 107, 196;
 }
 
@@ -23072,7 +23128,11 @@ a.step-item:hover {
 }
 
 .status-blue {
+<<<<<<< HEAD
   --tblr-status-color: #206bc4;
+=======
+  --tblr-status-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-status-color-rgb: 32, 107, 196;
 }
 
@@ -23202,7 +23262,11 @@ a.step-item:hover {
 }
 
 .status-tabler {
+<<<<<<< HEAD
   --tblr-status-color: #206bc4;
+=======
+  --tblr-status-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   --tblr-status-color-rgb: 32, 107, 196;
 }
 
@@ -23800,7 +23864,11 @@ Table sort
 }
 
 .toast-primary {
+<<<<<<< HEAD
   --tblr-toast-color: #206bc4;
+=======
+  --tblr-toast-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
 }
 
 .toast-secondary {
@@ -23836,7 +23904,11 @@ Table sort
 }
 
 .toast-blue {
+<<<<<<< HEAD
   --tblr-toast-color: #206bc4;
+=======
+  --tblr-toast-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
 }
 
 .toast-azure {
@@ -23940,7 +24012,11 @@ Table sort
 }
 
 .toast-tabler {
+<<<<<<< HEAD
   --tblr-toast-color: #206bc4;
+=======
+  --tblr-toast-color: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
 }
 
 .toolbar {
@@ -24371,7 +24447,11 @@ Chart sparkline
 }
 
 .border-primary {
+<<<<<<< HEAD
   border-color: #206bc4 !important;
+=======
+  border-color: #3E8A34 !important;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
 }
 
 .bg-secondary {
@@ -24515,7 +24595,11 @@ Chart sparkline
 }
 
 .border-blue {
+<<<<<<< HEAD
   border-color: #206bc4 !important;
+=======
+  border-color: #3E8A34 !important;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
 }
 
 .bg-azure {
@@ -24931,7 +25015,11 @@ Chart sparkline
 }
 
 .border-tabler {
+<<<<<<< HEAD
   border-color: #206bc4 !important;
+=======
+  border-color: #3E8A34 !important;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
 }
 
 .bg-white {
