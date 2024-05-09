@@ -193,8 +193,10 @@
               </div>
               <div class="col-lg-6">
                 <div class="mb-3">
+                  
                   <label class="form-label">Event End</label>
                   <input type="date" class="form-control">
+
                 </div>
               </div>
               <div class="col-lg-12">
