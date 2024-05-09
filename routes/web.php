@@ -20,3 +20,5 @@ Route::get('/Documents', function () { return view('admin.documents'); })->name(
 Route::get('/blank', function () { return view('admin.blank'); })->name('Blank');
 Route::get('/Settings', function () { return view('admin.settings'); })->name('Settings');
 Route::get('/AdminLogin', function () { return view('admin.login'); })->name('AdminLogin');
+
+
