@@ -719,7 +719,11 @@
   border: 0px solid #dadfe5;
 }
 .ts-wrapper.multi .ts-control > div.active {
+<<<<<<< HEAD
+  background: #206bc4;
+=======
   background: #3E8A34;
+>>>>>>> d308009ef867edc3ed87d4b98264032a7e4c230a
   color: #fff;
   border: 0px solid rgba(0, 0, 0, 0);
 }
